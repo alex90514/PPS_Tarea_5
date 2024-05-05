@@ -1,3 +1,4 @@
 Este es el texto del primer commit
 Segundo Commit 
 Prueba GPG 
+Este texto comprueba si se ejecuta gitleaks antes de hacer el commit
